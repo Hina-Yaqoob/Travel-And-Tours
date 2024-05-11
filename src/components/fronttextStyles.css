@@ -1,0 +1,51 @@
+.front {
+    color: rgb(52, 18, 202);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.front h1 {
+    font-size: 4rem;
+    /* margin-top: 0.8rem; */
+    text-decoration: solid;
+    font-weight: bold;
+    letter-spacing: 4px;
+    margin-left: 8rem;
+    text-align: center;
+    padding-left: 12rem;
+    padding-top: 2rem;
+}
+
+.front p {
+    margin-top: 8.5rem;
+    font-size: 1.5rem;
+    text-align: center;
+    padding-left: 14rem;
+   
+    /* padding-bottom: 10rem; */
+
+
+}
+
+.front a {
+    color: black;
+}
+.mybtn {
+    color: black;
+
+}
+
+.mybtn a{
+    text-decoration: dotted;
+    /* background: #fff; */
+ 
+  /* width: 15%;
+  height: 5%; */
+    font-size: 1.1rem;
+    font-weight: bold;
+    /* color: white; */
+
+}
+

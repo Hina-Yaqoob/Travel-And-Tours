@@ -1,0 +1,18 @@
+
+
+{
+ "slides": [
+        {
+            "src": "https://preview.colorlib.com/theme/hepta/images/slider-1.jpg",
+            "alt": "Img 1 for corousel"
+        },
+        {
+            "src": "https://preview.colorlib.com/theme/hepta/images/slider-2.jpg",
+            "alt": "Img 2 for corousel"
+        },
+        {
+            "src": "https://preview.colorlib.com/theme/hepta/images/slider-3.jpg",
+            "alt": "Img 3 for corousel"
+        }
+    ]
+}
