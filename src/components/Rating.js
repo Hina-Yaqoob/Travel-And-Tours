@@ -120,7 +120,6 @@ import Box from "@mui/material/Box";
 import ButtonBase from "@mui/material/ButtonBase";
 import Typography from "@mui/material/Typography";
 
-
 const images = [
   {
     url: "https://andtour-react.netlify.app/static/media/hotel2.3e4b06c0456866ba2d94.png",
@@ -266,6 +265,3 @@ export default function ButtonBaseDemo() {
     </Box>
   );
 }
-
-
-
